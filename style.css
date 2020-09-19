@@ -1,0 +1,91 @@
+.one  {
+   height: 80vh;
+}
+
+.two {
+   height: 90vh;
+}
+
+.three {
+   margin-top: 40px;
+}
+
+#rev {
+   padding-bottom: 3px;
+}
+
+.four {
+   margin-top: 30px;
+}
+
+#info  {
+   font-size: 25px;
+   font-family: sans-serif;
+   margin-top: 85px;
+}
+
+
+#logo  {
+   width: 60px;
+   height: 60px;
+   border-radius: 50%;
+   overflow: hidden;
+}
+
+#abc  {
+   margin-top: 0%;
+}
+
+#myname {
+   font-size: 64px;
+   position: relative;
+   top: 160px;
+
+}
+
+#tagline {
+   font-family: cursive;
+   font-size: 25px;
+   color: red;
+   margin-top: 14%;
+}
+
+#trf {
+   margin-top: 150px;
+   width: 300px;
+   height: 300px;
+}
+
+
+.five  {
+   margin-top: 60px;
+}
+
+.form-input {
+   width: 100%;
+   overflow: hidden;
+   font-size: 20px;
+   padding: 20px 0;
+   margin: 8px 0;
+   border-bottom: 1px solid;
+}
+
+.submit-btn {
+   width: 20%;
+   background: none;
+   font-size: 15px;
+   padding: 5px;
+   margin-top: 20px;
+   color: black;
+   border: 2px solid;
+   cursor: pointer;
+}
+
+.submit-btn:hover {
+   color: blanchedalmond;
+   background-color: blue;
+   transition: 0.5s;
+}
+
+
+
