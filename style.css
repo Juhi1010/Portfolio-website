@@ -1,13 +1,17 @@
+html {
+   scroll-behavior: smooth;
+ }
+
 .one  {
    height: 80vh;
 }
 
 .two {
-   height: 90vh;
 }
 
 .three {
    margin-top: 40px;
+   overflow: hidden;
 }
 
 #rev {
@@ -19,7 +23,7 @@
 }
 
 #info  {
-   font-size: 25px;
+   font-size: 1.5vw;
    font-family: sans-serif;
    margin-top: 85px;
 }
@@ -34,6 +38,7 @@
 
 #abc  {
    margin-top: 0%;
+   transition-delay: 2s;
 }
 
 #myname {
@@ -48,12 +53,14 @@
    font-size: 25px;
    color: red;
    margin-top: 14%;
+ 
 }
 
-#trf {
-   margin-top: 150px;
-   width: 300px;
-   height: 300px;
+#trff {
+   margin-top: 90px;
+   width: 80%;
+   height: 75%;
+   margin-bottom: 120px;
 }
 
 
@@ -86,6 +93,15 @@
    background-color: blue;
    transition: 0.5s;
 }
+
+
+
+
+
+
+
+
+
 
 
 
